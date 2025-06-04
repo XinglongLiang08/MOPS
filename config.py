@@ -15,7 +15,7 @@ PATIENT_JSON_PATH = '/home/x.liang/MyProject/survivalAnalysis/github/saved_model
 ROBERTA_TOKENIZER_PATH = '/home/x.liang/MyProject/survivalPrediction/radiobert_BigDataset_epoch10'
 
 #model path
-MODEL_PATH = '/home/x.liang/MyProject/survivalAnalysis/github/saved_models/best_model.pth'#'/home/x.liang/MyProject/survivalAnalysis/new_dataloader/OS/best_model-NonCom-ab_0733multi_clin_pro-0.pth'
+MODEL_PATH = '/home/x.liang/MyProject/survivalAnalysis/github/saved_models/best_model.pth'
 
 #Result path
 RESULT_PATH = '/home/x.liang/MyProject/survivalAnalysis/github/saved_models/survival/'
